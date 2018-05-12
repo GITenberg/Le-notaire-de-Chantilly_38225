@@ -1,0 +1,33 @@
+_repo: Le-notaire-de-Chantilly_38225
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38225-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Gozlan, Léon
+    alias: Gozlan, Leon
+    birthdate: 1803
+    deathdate: 1866
+    gutenberg_agent_id: '39323'
+    url: http://www.gutenberg.org/2009/agents/39323
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/L%C3%A9on_Gozlan
+    - http://en.wikipedia.org/wiki/L%C3%A9on_Gozlan
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38225'
+  lccn: '12020093'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Notaries -- France -- Fiction'
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PQ'
+title: Le notaire de Chantilly
+url: http://www.gutenberg.org/ebooks/38225
